@@ -5,3 +5,9 @@ Odoo Product Attribute
 ======================
 
 Various addons related to attribute management for products.
+
+
+TODO: 8.0/Master
+======================
+
+Port product_customer_code to 8.0 to allow for storage of customer's produt SKU.
